@@ -4,7 +4,12 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log(12 + 10)
+console.log("The sky is blue.")
+console.log("Hello, World!" + " My favorite color is blue!")
+console.log('"Theres a bluebird in my heart that wants to get out, but Im too tough for him"')
+
+Favoritecolor = "Blue"
 
 /*  
 Next, PLAY! 
